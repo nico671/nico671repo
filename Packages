@@ -1,0 +1,13 @@
+Package: com.yourcompany.cleaner
+Version: 1.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: nico671
+Filename: /cleaner.deb
+Size: 3702
+MD5sum: 3f2665b126c04a856ec8ac3a134e8516
+SHA1: 84968fe402dfb1812c8d14e23510f6266709e5d3
+SHA256: fda56120a1e210a0c4e4f45be89a1066bdc94328dcadda5692025e96c9759f86
+Section: Tweaks
+Description: removes dock and page dots
+Author: nico671 (Email)
+Name: cleaner
