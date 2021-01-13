@@ -22,6 +22,6 @@ MD5sum: 9db2fb7ab634e6f1fcb7640380bb5ba3
 SHA1: 277f1f272e30f07bf33143ffbcddac894185f13e
 SHA256: 1e5be7828aaa39c4a7008c99183527d588f89352ad576e6dac10cc3976259e8a
 Section: Tweaks
-Description: removes dock and page dots
+Description: simple finding airpods app
 Author: nico671
 Name: findmyairpods
