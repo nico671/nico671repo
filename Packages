@@ -1,8 +1,8 @@
 Package: com.yourcompany.cleaner
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: nico671
-Filename: /cleaner.deb
+Filename: /cleaner1.2.deb
 Size: 3702
 MD5sum: 3f2665b126c04a856ec8ac3a134e8516
 SHA1: 84968fe402dfb1812c8d14e23510f6266709e5d3
