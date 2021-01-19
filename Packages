@@ -11,3 +11,17 @@ Section: Tweaks
 Description: simple finding airpods app
 Author: nico671
 Name: findmyairpods
+
+Package: com.yourcompany.findmyairpods
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: nico671
+Filename: /removedock.deb
+Size: 7084
+MD5sum: 8cf45a2cc84f0b4319a3a254f83f063e
+SHA1: 385e2eeebc6239f477dc88b4beba4bd3c95a8fc2
+SHA256: 76c4a9b922e717eeefc6cdd54ada654fef774a5ebdd7e2b89872d09dba35632e
+Section: Tweaks
+Description: removes dock and page dots
+Author: nico671
+Name: findmyairpods
