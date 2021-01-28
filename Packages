@@ -12,7 +12,7 @@ Description: simple finding airpods app
 Author: nico671
 Name: findmyairpods
 
-Package: com.yourcompany.findmyairpods
+Package: com.nico671.removedock
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: nico671
