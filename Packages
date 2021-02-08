@@ -26,11 +26,11 @@ Description: removes dock and page dots
 Author: nico671
 Name: RemoveDock
 
-Package: com.nico671.removedock
+Package: com.nico671.bettermusicplayer
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: nico671
-Filename: /bettermusicplayer1.1.deb
+Filename: /bettermusicplayer.deb
 Size: 11632
 MD5sum: be99e6b6d0f3e0fe7f6e9cd6ae1edf65
 SHA1: e8cc03a39f9d1ffed2d4fc40feff121f925b0f9f
