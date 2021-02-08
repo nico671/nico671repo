@@ -36,6 +36,6 @@ MD5sum: be99e6b6d0f3e0fe7f6e9cd6ae1edf65
 SHA1: e8cc03a39f9d1ffed2d4fc40feff121f925b0f9f
 SHA256: 4caff12899135d5c3f29aacca5cc4708cd7984ce1692294a7e5613dc7d615c17
 Section: Tweaks
-Description: removes dock and page dots
+Description: more options for the lock screen music player
 Author: nico671
-Name: RemoveDock
+Name: bettermusicplayer
