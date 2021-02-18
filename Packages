@@ -27,14 +27,14 @@ Author: nico671
 Name: RemoveDock
 
 Package: com.nico671.bettermusicplayer
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: nico671
 Filename: /bettermusicplayer.deb
-Size: 76328 
-MD5sum: 4b428f16a4ea89ecde7e8f43aa05d334
-SHA1: 46e7b944451192c5d81b531c004f89b2d524b952
-SHA256:b0b204952b881e1e49a670d4fdce8e0fac3361022588c0f9abea6fcbb7354e71
+Size: 86850 
+MD5sum: 3d98a938688e6e205c5ce9d705291a0e
+SHA1: 52c3fe8d04ed050e42f9f06132de9fb3e183d4dc
+SHA256:d5ee31ba6ec0f65550d2d39f3578468d05e187a2d8a9717bee5e962bef977dba
 Section: Tweaks
 Description: more options for the lock screen music player
 Author: nico671
