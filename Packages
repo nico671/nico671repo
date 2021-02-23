@@ -12,29 +12,16 @@ Description: simple finding airpods app
 Author: nico671
 Name: findmyairpods
 
-Package: com.nico671.removedock
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: nico671
-Filename: /removedock.deb
-Size: 9528
-MD5sum: 2a8d989e3713a8c1cfaa9edbba647772
-SHA1: eb1f781ab4cbfdecacbf57bcf458282e94741fe3
-SHA256: 08fe56cb97b036f2b65abc9cdcf8d57a0c87afbb320fe2f0a49cb7c0a32349b1
-Section: Tweaks
-Description: removes dock and page dots
-Author: nico671
-Name: RemoveDock
 
 Package: com.nico671.bettermusicplayer
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: nico671
 Filename: /aquarius.deb
 Size: 86850 
-MD5sum: 3d98a938688e6e205c5ce9d705291a0e
-SHA1: 52c3fe8d04ed050e42f9f06132de9fb3e183d4dc
-SHA256:d5ee31ba6ec0f65550d2d39f3578468d05e187a2d8a9717bee5e962bef977dba
+MD5sum: 981acd379913f88e29dc6a5f2cb20918
+SHA1: 0b2bc3dc72977188d9519ef1dd1a62dd45c6a2e8
+SHA256: 85c467181ed3ed136b9323f4be45feb2237631d675170aebb9e137d5f87c9953
 Section: Tweaks
 Description: more options for the lock screen music player
 Author: nico671
